@@ -26,3 +26,6 @@ Draw insights from your analysis and use them to make informed recommendations. 
 
 • Step 8:- Documentation
 Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
+
+https://docs.google.com/spreadsheets/d/10MJjQn4l7gCzHx2kk6hfWIhkOx4pKeAVkOX-9KllQ4g/edit?usp=sharing
+
